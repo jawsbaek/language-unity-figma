@@ -1,0 +1,17 @@
+# BMAD (local only)
+node_modules
+
+.DS_Store
+.cache
+.env
+
+.data
+.vercel
+.output
+.wrangler
+.netlify
+dist
+/build/
+/api/
+/server/build
+/public/build
