@@ -1,0 +1,28 @@
+# PRD: Figma Language Consistency Plugin
+
+## Table of Contents
+
+- [PRD: Figma Language Consistency Plugin](#table-of-contents)
+  - [1. Summary](#1-summary)
+  - [2. Goals](#2-goals)
+  - [3. Non-Goals](#3-non-goals)
+  - [4. Target Users and Personas](#4-target-users-and-personas)
+  - [5. Problem Statement](#5-problem-statement)
+  - [6. Scope](#6-scope)
+  - [7. User Stories (Representative)](#7-user-stories-representative)
+  - [8. Key Flows](#8-key-flows)
+  - [9. Functional Requirements (MVP)](#9-functional-requirements-mvp)
+  - [10. Post-MVP / Future](#10-post-mvp-future)
+  - [11. Language Pack Structure (Baseline)](#11-language-pack-structure-baseline)
+  - [12. UX/UI Requirements](#12-uxui-requirements)
+  - [13. Architecture & Technical Choices](#13-architecture-technical-choices)
+  - [14. Privacy, Security, Compliance](#14-privacy-security-compliance)
+  - [15. Performance & Reliability](#15-performance-reliability)
+  - [16. Telemetry (Optional, Off by Default)](#16-telemetry-optional-off-by-default)
+  - [17. Metrics & KPIs](#17-metrics-kpis)
+  - [18. Release Plan](#18-release-plan)
+  - [19. Dependencies & Risks](#19-dependencies-risks)
+  - [20. Acceptance Criteria (MVP)](#20-acceptance-criteria-mvp)
+  - [21. Open Questions](#21-open-questions)
+  - [22. Appendix](#22-appendix)
+  - [23. Epics and Story List](#23-epics-and-story-list)
